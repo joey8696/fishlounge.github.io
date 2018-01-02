@@ -1,0 +1,13 @@
+Package: com.macciti.splendore
+Name: Splendore
+Version: 2.4.1
+Author: RauseoThemes <rauseothemes@yahoo.com>
+Maintainer: RauseoThemes <rauseothemes@yahoo.com>
+Description: Exclusive beta of Splendore
+Depiction: https://rauseo12.github.io/repo/depictions/index.html
+Architecture: iphoneos-arm
+Section: Themes (SpringBoard)
+Size: 3674664
+Filename: ./debs/com.macciti.splendore_2.4.1_iphoneos-arm.deb
+Icon: file:///Library/Themes/Splendore.theme/Bundles/com.apple.preferences-ui-framework/Photos@2x.png
+MD5Sum: 1f4d2499f8fe8faae7fa04c80c5ae7fe
